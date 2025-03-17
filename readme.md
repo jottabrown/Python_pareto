@@ -14,7 +14,7 @@ pip install matplotlib
 ## 🚀 Usage
 Run the script using Python:
 ```bash
-python script.py
+python Python_pareto.py
 ```
 
 ## 📝 Code Overview
